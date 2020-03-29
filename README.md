@@ -1,8 +1,6 @@
 # The Earlier the Cheaper? Houston Rockets Ticket Price Analysis
-### Frank Li
-### Rice University
-
-### This research was supported by Winston Lin, Director of Business Strategy & Analytics of the Houston Rockets.
+### Frank Li, Rice University
+#### This research was supported by Winston Lin, Director of Business Strategy & Analytics of the Houston Rockets.
 
 There are a number of factors that the system takes into account, including seat location, opponent, match time (day vs night, holidays etc.), peer events and so on. Here, we focus on the time when people buy tickets, as the relation between time to event and price is unclear: it is not definitive whether prices will rise or drop when the event nears. 
 
